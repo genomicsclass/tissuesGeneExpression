@@ -1,0 +1,8 @@
+Package: tissuesGeneExpression
+Title: tissuesGeneExpression
+Version: 1.0
+Date: 2015-01-13
+Author: Michael Love and Rafael Irizarry
+Maintainer: Michael Love <michaelisaiahlove@gmail.com>
+Description: Data Analysis for Genomics datasets
+License: GPL-3
